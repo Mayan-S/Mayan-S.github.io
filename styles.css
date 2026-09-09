@@ -417,15 +417,8 @@ body {
 .project-card__top {
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
-  margin-bottom: 1.5rem;
-}
-
-.project-card__year {
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: var(--dim);
-  letter-spacing: 0.05em;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
 }
 
 .project-card__arrow {
